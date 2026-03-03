@@ -1,4 +1,4 @@
-# ride_list
+# Ride_List
 A C file that prints the rides that the user inputs. Prompts the user for the amount and the names.
 
 # How to run
